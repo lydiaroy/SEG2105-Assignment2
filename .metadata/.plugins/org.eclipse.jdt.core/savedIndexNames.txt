@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\Lydia\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2568234942.index
+2219000855.index
